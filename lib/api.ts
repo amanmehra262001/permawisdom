@@ -42,6 +42,7 @@ export const fetchFeedData = async (feedId: string) => {
     string: true,
   });
 
+  // @ts-ignore
   const votes = await fetchVotes(JSON.parse(res).id);
   console.log("Votes:", votes);
 
