@@ -52,7 +52,7 @@ The main goal of PermaWisdom is to create a reliable and censorship-resistant pl
 5. **Mobile Application**:
     - Develop mobile apps for iOS and Android to enhance accessibility.
 
-## Caveats
+## Area For Improvement
 
 1. **Scalability**:
     - As the platform grows, the number of transactions might increase, leading to higher costs and potential delays.
